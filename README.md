@@ -1,1 +1,1 @@
-State management using Redux Toolkit
+State management using Redux Toolkit with React-Redux

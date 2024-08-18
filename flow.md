@@ -13,19 +13,15 @@ Redux Toolkit is a set of opinionated and standardised tools that simplify appli
 - Redux toolkit includes integration with the Redux DevTools browser extension which makes it easier to bebug and analyse
 
 Store
-
 - Separate place to store all variables / data
 
 Reducers
-
 - Only functions through which we can change the state of variables
 
 State
-
 - state defines the current state of varaibles inside the reducers
 
 Action
-
 - Action acts like the trigger to the reducers functions
 
 # Using redux toolkit basic structure

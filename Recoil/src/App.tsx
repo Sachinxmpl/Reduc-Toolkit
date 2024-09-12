@@ -1,12 +1,14 @@
 
  import { RecoilRoot } from "recoil"
- import { CharacterCounter } from "./CharacterCounter"
+//  import { CharacterCounter } from "./CharacterCounter"
+import { FromBackend } from "./frombackend"
 
  const App=()=>{
           return (
 		<RecoilRoot>
 				Hellow 
-				<CharacterCounter/>
+				{/* <CharacterCounter/> */}
+				<FromBackend/>
 		</RecoilRoot>
 	
 	  )

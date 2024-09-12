@@ -5,6 +5,13 @@ const textState = atom({
             default : "sachin"
 })
 
+
+const countState = atom({
+            key : "counterState" , 
+            default : 0
+})
+
 export {
-            textState
+            textState , 
+            countState
 }
